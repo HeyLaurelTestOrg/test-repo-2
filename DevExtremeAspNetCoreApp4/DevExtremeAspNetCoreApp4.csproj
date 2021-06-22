@@ -10,7 +10,7 @@
     <PackageReference Include="DevExtreme.AspNet.Core" Version="19.1.4" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.1.1" />
-    <PackageReference Include="BuildBundlerMinifier" Version="2.9.406" />
+    <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties TemplateFeatures="NETCORE CS BASELINE" /></VisualStudio></ProjectExtensions>
